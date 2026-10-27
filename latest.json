@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "Table view of a series, like SD200W's list",
-  "pub_date": "2026-10-27T14:48:23.510Z",
+  "version": "0.1.20",
+  "notes": "Profile: leave out unreadable lines, axes from points in water, cleaner ticks",
+  "pub_date": "2026-10-27T14:53:03.812Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.19_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmExcmQ5WGxwSzk1bHFaS3lad2ppVkF5Mkc4NlVvRzRxWG1hdi82Sjd5Q2wrNktLbmJITGxGbjYrOWJhVWNqSHYweFl6UjA3WHdidWNOcGZJSlF0b3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEyNDk1CWZpbGU6U0QzMDBXXzAuMS4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE5ClI5Mk1acTFoSXhjb2xZdlc2RUh5c0VubXVkNXJINTNoQ1A4eVhic05UTzhIS21IM3BiVFNVd3k4K1h4Tkx6QUhuaEtybHBMRmR6Y0xBM0ZDVFd6ZUNBPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.20_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlM4cjVYNG0rSUFKT1Z2MUhQR0Y1dzhVUGlJRjFJVVZPajJ4WnhHaUtUaHV0Tlg5aGJtYzBPTTBsM2huODFYejN1MlN4cGJuOG9WKzZmbGFSQlBvMWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEyNzcyCWZpbGU6U0QzMDBXXzAuMS4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIwClJldDhNc1BjSy9VLzNMM09jdkVhKy9aeHJ5cHFIL1JtVFlORnBrcFFPRnZpc3oxR3UxRjFmaFdnb3dndzNWeXJray9iSlVFMnNjZm9ScWNBcVdmcUR3PT0K"
     }
   }
 }
