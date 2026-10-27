@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Wake: answer the «Status/Start/Menu <S>» screen, stop if a measurement starts",
-  "pub_date": "2026-10-27T12:33:01.939Z",
+  "version": "0.1.6",
+  "notes": "Wake: only I is held; every other key is one tap",
+  "pub_date": "2026-10-27T12:40:25.158Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlNoNXZyVWR2dE5iQTZzSXdhU0wvQ2wzOVJ4V2NDTjc2ampTRSt1Uk85cGhXanBHRVczRm5veS9tS3JOei9LM25CT0h2Q2JBV2paczJqd3FKbm9mREFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0Mzc2CWZpbGU6U0QzMDBXXzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApZZGlrRC9yZW9zWGVhVGtSN0VWQnlkYUxqNjRteE1lUTlHUmF4WURzbWppTDlpSWlKYnpURzJXelU3dDdrZVJFaEIyTWZDU2lzYVk0RjUyUzJjYlhDZz09Cg=="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.6_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmZXZHUyQVVscHJ5eFdBTkRaZm9qVWhaN0xkbm0yQ1ArdUc1L1AvWG8vNXFtOXg5bVpHZEJNMFdscGV1WllzNU1DTFVTazJKUVhsZEVrbXZNU2ZhcHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA0ODIxCWZpbGU6U0QzMDBXXzAuMS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNgpYY0JyWklpN3ZMODRTWDBOeGNma2xQeVB3bmFoT09zK1FHZDV6K2dLOUhwOTJtSzcwNHhmY0NhSkNJWkRGbEViSGJtRzRDdytvaWRKVGVXUmw3alBBZz09Cg=="
     }
   }
 }
