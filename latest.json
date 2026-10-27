@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Update notes: first line of the commit message only; actions on Node 24",
-  "pub_date": "2026-10-27T12:19:43.062Z",
+  "version": "0.1.3",
+  "notes": "Wake: wait up to 90 s for the menu, show elapsed time",
+  "pub_date": "2026-10-27T12:24:17.550Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlREU2xwSnRZaytWaWdkOURPd1RZd1RxcDVNYjV6R2VVOE00bkNYNWhBNDhwWldtcHlKT3hMdHVBdTdLL2dOQUFlaGo1VlFjMFA5VnFUMWRiV1ZkRFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAzNTc4CWZpbGU6U0QzMDBXXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgpxVS9kOUN6a1lnOGRNU0pwSWEzaXp4c25pSjk2VVhwRTk4NFB3K0c0UjdUTFdFM0hlWndsSVR6S2JOQ1NYenZQSDN1aFRTVWl5VE92MEx4cWgxYjZBZz09Cg=="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlJFaHM3VlQvQUNSbmFFTVJVQ2JQTDkzZXoxb2ZYR1NLdHl4elRyVFZnQWpLZEdYajJlUTZXZkJ4UmVCai9yZzhmL2lCOCsyckhjeEwyM2NsVERid0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAzODUyCWZpbGU6U0QzMDBXXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwpSNklrclNWQXg1cFdpUUpJbFBacHlqNE85VDRNZ1pTNHd6UWRqbjRzRHBhd3hPZ2dCb0QxMTBya1lrS0dZcTJqT1JudGpZd0tNUGdOaU5nY2FHdzNDQT09Cg=="
     }
   }
 }
