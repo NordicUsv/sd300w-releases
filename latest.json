@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "Profile: overlay (SD200W Multigraph style) and panels, parameter chips",
-  "pub_date": "2026-10-27T14:39:29.525Z",
+  "version": "0.1.19",
+  "notes": "Table view of a series, like SD200W's list",
+  "pub_date": "2026-10-27T14:48:23.510Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.18_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlFSYllhQURPbWwrT21tcGV6SDBwRExQVm56akt5clZJd1l4ZGxRVkVjbkVLMUpTRHl2d2YwUzBCNE5CTldKVzlmY2FqRXlQWWtWNkpTQnI2YTVtL2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTExOTYxCWZpbGU6U0QzMDBXXzAuMS4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE4ClRESUpaOFcrYng3R2JJTHRDMlRwR041VzFzRFAraWRLbGZtVTFkMEo0NFRPOHRMSlpVM1l3aEQwVEpuZFBLQklIWDdXaG1rQm5zdW8welp1UWlCaENBPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.19_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmExcmQ5WGxwSzk1bHFaS3lad2ppVkF5Mkc4NlVvRzRxWG1hdi82Sjd5Q2wrNktLbmJITGxGbjYrOWJhVWNqSHYweFl6UjA3WHdidWNOcGZJSlF0b3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEyNDk1CWZpbGU6U0QzMDBXXzAuMS4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE5ClI5Mk1acTFoSXhjb2xZdlc2RUh5c0VubXVkNXJINTNoQ1A4eVhic05UTzhIS21IM3BiVFNVd3k4K1h4Tkx6QUhuaEtybHBMRmR6Y0xBM0ZDVFd6ZUNBPT0K"
     }
   }
 }
