@@ -1,11 +1,11 @@
 {
-  "version": "0.1.15",
-  "notes": "Save dialog: narrower, radios; oxygen mg/l, ml/l or both (NAME.txt + NAME_ml.txt)",
-  "pub_date": "2026-10-27T14:14:00.373Z",
+  "version": "0.1.16",
+  "notes": "Chart: short legend names, full names in the tooltip; optode named as oxygen",
+  "pub_date": "2026-10-27T14:19:29.814Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.15_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmQxZVEzdHk4Qy9ZVWxPVE5VS09CUGVlRnJrZ1FFSmpjTllIZ3hkYTFrazYyT1RTNjMrelhmaUo3czFVTFpXOHpUTUxrT21GeVhFWTZ2Zzd1VTVWMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEwNDMxCWZpbGU6U0QzMDBXXzAuMS4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE1CmRVRkNhTkMwa0hFMytPUVdTYVFsYXA2ejh3ZUJ3L0xpVG9XQkV4VzFtOUV5UkxPbTc2MG9xa0RRd3g1Wm1DNTZoUmRXTi92TzdUNHZFNCtZWU96aENRPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.16_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRllla2k5Z2d3cktFOGs1SW5MQ29VS3l4UnZ4emhaQW5UWWZyRUJlRWNGUG9QVDJod1RBMVFldmp6NndQaVR0cE5JNmRWL1JzcUpORnM1aWdaakVVU1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEwNzYwCWZpbGU6U0QzMDBXXzAuMS4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE2CkVOdi9xclJwSDJpWFZqQW1iTk9rR04rQklsUEo2bVQrbk5LcXBGQzNKcUJBTDNYZitiZG1rRTBhalM3NmlwOHZyenhEalNrbmVreDlvT2RKc2w0TENBPT0K"
     }
   }
 }
