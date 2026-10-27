@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "Profile chart: ECharts, all parameters as lines against depth, tooltip and zoom",
-  "pub_date": "2026-10-27T13:16:57.480Z",
+  "version": "0.1.10",
+  "notes": "Save and open SD200W's own files; data view built on the SD200W dataset",
+  "pub_date": "2026-10-27T13:27:02.068Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.9_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlh5MUJsdmFWZGsya25nYnJJZW42UzVKQ0RoNU5GTFhBbzNOV1l6MkhaZUdmaktONkt3UHNyRG5SSmlUK2hXN0QzRS9sYWhuKzg2Vm5ReXVuS2FXN1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3MDEyCWZpbGU6U0QzMDBXXzAuMS45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOQo5ZmJJWVpkWmRnc2liYVJSSThNM3BrSDhHWmJCSENiMXczbEVLYnNDNnlEenlPYitIV2QxNDMwNkx1N0hxMU11eENkYlBXenFXdG1GYmRLb1dVVkxBdz09Cg=="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlhCYXc2WVJyQmpqajQ1cms0UmV2WFluQndBQzFlWmdMRmxZZ25tdjhjaDBwUXk5UFNBY0NVeWRHcVBOU2M3VlYzWlJ4YTJjNWVTY1dvYy8vNHJPd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3NjE2CWZpbGU6U0QzMDBXXzAuMS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwCm1YNmxxUEFkZzVoMDRHQ2NaaEk3bzlIK0Iyb3Z0ZDU3akg1UU1uM0JuNjNxKzJScVpCZnpxT282Sm1SLzYyY2VLWWlyZ0lkQ09oQ0YrY0x6K2toZ0J3PT0K"
     }
   }
 }
