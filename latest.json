@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "Series table as wide as its content",
-  "pub_date": "2026-10-27T14:06:18.396Z",
+  "version": "0.1.15",
+  "notes": "Save dialog: narrower, radios; oxygen mg/l, ml/l or both (NAME.txt + NAME_ml.txt)",
+  "pub_date": "2026-10-27T14:14:00.373Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.14_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlplZzQ1ekpIQytVQWcxVlVFYlhnbFk1MnhiRkY1YkRqKzJUcEJJVXdySUdHUUo0K1hTZW9LSEI0ZGxCemhnUGZNUVUwMThjSDZVZmx0eXlUV0J3UUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA5OTcyCWZpbGU6U0QzMDBXXzAuMS4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE0CldtU09Vc1YwaWwrcy9xT3JVT1gxOFdvdnNoZGE0amRCY2lyV1VUMWMzaDZlbVQzbGtiYVNjOEllZmRtZ1BLZGNZSGIvckd2QUwwV20wM25jbTl6RkJnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.15_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmQxZVEzdHk4Qy9ZVWxPVE5VS09CUGVlRnJrZ1FFSmpjTllIZ3hkYTFrazYyT1RTNjMrelhmaUo3czFVTFpXOHpUTUxrT21GeVhFWTZ2Zzd1VTVWMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEwNDMxCWZpbGU6U0QzMDBXXzAuMS4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE1CmRVRkNhTkMwa0hFMytPUVdTYVFsYXA2ejh3ZUJ3L0xpVG9XQkV4VzFtOUV5UkxPbTc2MG9xa0RRd3g1Wm1DNTZoUmRXTi92TzdUNHZFNCtZWU96aENRPT0K"
     }
   }
 }
