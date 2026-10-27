@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Save and open SD200W's own files; data view built on the SD200W dataset",
-  "pub_date": "2026-10-27T13:27:02.068Z",
+  "version": "0.1.11",
+  "notes": "Profile chart: tooltip shows each line's value, all lines visible, tighter spacing",
+  "pub_date": "2026-10-27T13:33:23.275Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.10_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlhCYXc2WVJyQmpqajQ1cms0UmV2WFluQndBQzFlWmdMRmxZZ25tdjhjaDBwUXk5UFNBY0NVeWRHcVBOU2M3VlYzWlJ4YTJjNWVTY1dvYy8vNHJPd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3NjE2CWZpbGU6U0QzMDBXXzAuMS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwCm1YNmxxUEFkZzVoMDRHQ2NaaEk3bzlIK0Iyb3Z0ZDU3akg1UU1uM0JuNjNxKzJScVpCZnpxT282Sm1SLzYyY2VLWWlyZ0lkQ09oQ0YrY0x6K2toZ0J3PT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.11_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlE5K2NVWkhabW1wUjgyQzJrbnV3Wk5PY0hJV2pIcTA3SENUb3lrZC90d3hQUlZFWGh1b29teXZwbjNtUDZmODg2dGFDS25wSkE1Yks4cU1LZXBreUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3OTk3CWZpbGU6U0QzMDBXXzAuMS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjExClgySlAvenA0eVNSTEdLTDJhcW5Zd1hNbVFsMm13N2xrNVlpUEVOZmpNWlBIVERMNFpaczdadkFReHV5Rlg2NkdJd05nLzd2REMwRXhMa2NzZzJMU0FBPT0K"
     }
   }
 }
