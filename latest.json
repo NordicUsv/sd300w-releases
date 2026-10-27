@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Script for one-time GitHub setup of releases\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_0126xMvv8F3fzUtua8KuW4VP",
+  "pub_date": "2026-10-27T12:04:20.074Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRldac0pqbDQ1clRpdWNNbmN0NWZPT3BDTDV5dXZKdDdYbTRja1l6aGZSVXhoNlFqSVFUZkFCYkRIeTE2QW5zc1lLUUFDWTRGSWtoaUNSOTB6SUx0ckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAyNjU0CWZpbGU6U0QzMDBXXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQp1Ujg1VUVlV2M5MDdyMEpRenlScmVFSlVNYmhwSFdtdEVoOCt5MHpmVE85NTdhNlFRbVhvUlVqdVJtTGkrRjhnV3ZVMXB6SDMvQmZUbTduZGR3alhEUT09Cg=="
+    }
+  }
+}
