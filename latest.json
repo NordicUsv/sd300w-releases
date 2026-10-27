@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "Status: one compact row – state and when last heard; explanation as tooltip",
-  "pub_date": "2026-10-27T15:07:39.435Z",
+  "version": "0.1.24",
+  "notes": "Interval and clock as in the manual; type straight into the terminal",
+  "pub_date": "2026-10-27T15:44:58.544Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.22_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRpMCswWlBmTFVmYks4N2lncTFJSHRUbWlrcjhUcWlabFlaVDJpNE50eExVdjdaby9xUFdjb0RMZnl2dVhuTFNGN1pQOG1PRmFwM01ZMy9Nd2luMndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzNjQ5CWZpbGU6U0QzMDBXXzAuMS4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIyClBKMFdITjlQVVp5dFQzQXgxYzJ3RXdHTHRrRTBTL0tTanUzVXJDYWVxL0UzYksrL3htRkE4UEdXS3RNMjA1cE9rb2UyT3Jadk1WZE5DdjcrUTdrQkN3PT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.24_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlYrZ2M4N1hYTmhqc2hwOHRTUUhRS1lhT3VaM3dyaWNEYmdCQ1ZLYkpjTFdxWFJYTjV0eWpoanovUDR3ZjVsZ2VtWWRxa1NlVUhOUE50QTFXaExxTFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE1ODc4CWZpbGU6U0QzMDBXXzAuMS4yNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI0CldQTTV4SWM4QVdqckJCdm1DMjcwQjlQOGk3OUx1SkRtVThqRGt1NmdNNGg5bEhVYjVlYnJOd1IrNFJHYXhrZHNJb2JtUWlvR21PRDVXY0YvZ2J5Q0F3PT0K"
     }
   }
 }
