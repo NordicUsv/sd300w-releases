@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "Profile chart: tooltip shows each line's value, all lines visible, tighter spacing",
-  "pub_date": "2026-10-27T13:33:23.275Z",
+  "version": "0.1.12",
+  "notes": "Profile chart: no zoom",
+  "pub_date": "2026-10-27T13:37:58.861Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.11_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlE5K2NVWkhabW1wUjgyQzJrbnV3Wk5PY0hJV2pIcTA3SENUb3lrZC90d3hQUlZFWGh1b29teXZwbjNtUDZmODg2dGFDS25wSkE1Yks4cU1LZXBreUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA3OTk3CWZpbGU6U0QzMDBXXzAuMS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjExClgySlAvenA0eVNSTEdLTDJhcW5Zd1hNbVFsMm13N2xrNVlpUEVOZmpNWlBIVERMNFpaczdadkFReHV5Rlg2NkdJd05nLzd2REMwRXhMa2NzZzJMU0FBPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.12_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlQxRmxRZ0t2Rmd4ejkyM3FxNGZOSk9pWmZtUEwvbnFjdXNNd2NPdWtLd1Q0OWV6NlI5UjZFKzNJeHFIYUI5bjFzc2huTXI2eE81bmh4ZURpZWtYa2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA4MjcxCWZpbGU6U0QzMDBXXzAuMS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEyCmZKSzY4WC9FUUI2TTdodXd1N1pKa211bHNMTGd0ZjFHZkREQjdJTk5EeUFJVkErYUFOQXROc082K0xYc01JZnFKSGNtVTQ1Z0g2Y1NUbGNCWHdBekNnPT0K"
     }
   }
 }
