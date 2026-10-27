@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "Instrument status card at the top of the panel",
-  "pub_date": "2026-10-27T14:57:42.962Z",
+  "version": "0.1.22",
+  "notes": "Status: one compact row – state and when last heard; explanation as tooltip",
+  "pub_date": "2026-10-27T15:07:39.435Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.21_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlVEcm5ZdnBNSFNoSW9lenQrWFhmYXZpMFd5NWxLekNDSWFVUEhiSkpUM3N5SGNSU2NHWThWWU5rVDFFTmVLMEJ2aXpxaWh2NFRhdjNFbE5UMzZZMlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzMDUyCWZpbGU6U0QzMDBXXzAuMS4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIxCkFRWDU0ZnJ1Mi9YdlQ4bmZwK3hrTVlCbDB4Z0FmdmFGZGtiMUwzbzVsY1JLSi9jUlZuWHVwZEVDTzZ0VzU5TmM3OVhvOE9rM0ljR3JvdTNGUkZXQ0NnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.22_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRpMCswWlBmTFVmYks4N2lncTFJSHRUbWlrcjhUcWlabFlaVDJpNE50eExVdjdaby9xUFdjb0RMZnl2dVhuTFNGN1pQOG1PRmFwM01ZMy9Nd2luMndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTEzNjQ5CWZpbGU6U0QzMDBXXzAuMS4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIyClBKMFdITjlQVVp5dFQzQXgxYzJ3RXdHTHRrRTBTL0tTanUzVXJDYWVxL0UzYksrL3htRkE4UEdXS3RNMjA1cE9rb2UyT3Jadk1WZE5DdjcrUTdrQkN3PT0K"
     }
   }
 }
