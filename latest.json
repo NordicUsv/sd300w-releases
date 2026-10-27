@@ -1,11 +1,11 @@
 {
-  "version": "0.1.12",
-  "notes": "Profile chart: no zoom",
-  "pub_date": "2026-10-27T13:37:58.861Z",
+  "version": "0.1.13",
+  "notes": "Profile chart: both/down/up toggle (split at the deepest point); «Maks dyp (dbar)»",
+  "pub_date": "2026-10-27T13:42:47.868Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.12_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlQxRmxRZ0t2Rmd4ejkyM3FxNGZOSk9pWmZtUEwvbnFjdXNNd2NPdWtLd1Q0OWV6NlI5UjZFKzNJeHFIYUI5bjFzc2huTXI2eE81bmh4ZURpZWtYa2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA4MjcxCWZpbGU6U0QzMDBXXzAuMS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEyCmZKSzY4WC9FUUI2TTdodXd1N1pKa211bHNMTGd0ZjFHZkREQjdJTk5EeUFJVkErYUFOQXROc082K0xYc01JZnFKSGNtVTQ1Z0g2Y1NUbGNCWHdBekNnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.13_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRllzSE5xUldsMzEvNTA4NlVtcFhkUHBzb3E1b2hodTFTVzNhMXJ2VmlPNEQvazAwZ3IzREpST2NvYVJvQ1lUZjhQZVdqUTZjZ3o0dnBrUTVwdnlQelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA4NTYxCWZpbGU6U0QzMDBXXzAuMS4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEzCmgrRWhiUXRDZnUxRkNBNnJjZS9XLzJCd1l1bEZiRG5YWVNPb05wY3BzZ2N4bG1EYVF3aEh0RjFVMWpLMnc2Y2dpQlp5bGhWTzhxUTBlS0NRSzVUK0JBPT0K"
     }
   }
 }
