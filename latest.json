@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "notes": "README: interval and clock follow the manual",
-  "pub_date": "2026-10-27T15:49:37.749Z",
+  "version": "0.1.26",
+  "notes": "Open dialog remembers the last folder; drop files on the window to open them",
+  "pub_date": "2026-10-28T10:37:52.737Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.25_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmM5N2JPWDAvalVQaTIrZmk0WnR6ek5CZW1Uc2s2d05IMzRZcGlHY2czTkVYNjA1dENvaGNydm1ndWhINzRaYVdFd3lEWW1HakJZbnQvN1BkMHJQOWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTE2MTcxCWZpbGU6U0QzMDBXXzAuMS4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI1CitSRUNJWGpsd2xtaklUOWN0M1RkYzc0MjBsa1E1L0xyQnJKSmNRd1NlNk1rMlRCVUZlK1NlbjhNNGhBZm1FV1BaMm0wOWFDa3BHenIzSWpLSTlMcUFRPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.26_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmVuS1VjcTRxZHlCVkR0VlM0Mk51bllIampCZkdMdU5RWEtDSHRsMnhSRXowT3JkUHJTQUY5RXBVdHdpemFXcTNRcUU1UEtPdDU4SUlTSXNuTVE5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTgzODY1CWZpbGU6U0QzMDBXXzAuMS4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI2CkdDMi9ZZnJwM0JpRFh2NU9mVVhnTW9jcHFlaVVWSGJTek9Yc2JFRU1MZDQySURMejZUKzZJSDllREZjNm53YnlQWEV0TDA0Y1YzSWRhcEM1S1IwU0RnPT0K"
     }
   }
 }
