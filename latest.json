@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "Open dialog remembers the last folder; drop files on the window to open them",
-  "pub_date": "2026-10-28T10:37:52.737Z",
+  "version": "0.1.27",
+  "notes": "Back up every download as its own folder with the raw dump and SD2 files",
+  "pub_date": "2026-10-28T23:03:52.961Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.26_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmVuS1VjcTRxZHlCVkR0VlM0Mk51bllIampCZkdMdU5RWEtDSHRsMnhSRXowT3JkUHJTQUY5RXBVdHdpemFXcTNRcUU1UEtPdDU4SUlTSXNuTVE5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTgzODY1CWZpbGU6U0QzMDBXXzAuMS4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI2CkdDMi9ZZnJwM0JpRFh2NU9mVVhnTW9jcHFlaVVWSGJTek9Yc2JFRU1MZDQySURMejZUKzZJSDllREZjNm53YnlQWEV0TDA0Y1YzSWRhcEM1S1IwU0RnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.27_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmVXQTJ1djl3M01SNWQ5NTBwSmU0SjBsSlZwWERXMEx5NDc1d3dxR2gvQmxyQnRGQ0dpb0VBS1h5ZFNoZUFpWUthbmZDOFhvMDUvS2V2cnVneUJtakFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI4NjE4CWZpbGU6U0QzMDBXXzAuMS4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI3CjVva010UXZXeUswdkU2WVJIbUlySEtDdVNrT3lJYzZmeCtpQTBOaFRFTTJseHBBM0hmdnNGa1pBK3lyMHRvL2dsbEY3L0pvaC9VWno0MjVOVDdTbkR3PT0K"
     }
   }
 }
