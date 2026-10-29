@@ -1,11 +1,11 @@
 {
-  "version": "0.1.29",
-  "notes": "Own select style instead of the native control; full-width buttons in the collapsed instrument section",
-  "pub_date": "2026-10-29T14:01:47.364Z",
+  "version": "0.1.30",
+  "notes": "Profile overlay: axis names on the left, ranges from points below 0.5 dbar, all-zero lines left out",
+  "pub_date": "2026-10-29T14:07:25.220Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.29_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRDMjFOUFdxRkNUbFBTVVptN2x5cGdSZTdlMC9sdXZsQW1EWG5OSFo3dllDbG5pVng0TUsydzR5YjFJUUVJMmUxYndFZWhVc2pPa1JKNGFuTjBBQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgyNDk4CWZpbGU6U0QzMDBXXzAuMS4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI5Cktyckk5NUZqM2tRZzRuWkZKWHlhemgzbWNmVnN3M1ZBZjBGRHQ5cmlrUktMS0FFSFVNK2xXZElsSHoyemZYR0Q5Zkh2L1RrRHhaRmVhL2xJdzVKdERRPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.30_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmI4SC9JUmUrWk12akVxeXFzZ1EycE5HY0J3d25kYnhzYVhlVTVKazdabzlIT1RXMmI5a2E1WjJUdFB5MVhTWUR1UWlYMnM3MkUzbnNBQlVjZUErOFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgyODM4CWZpbGU6U0QzMDBXXzAuMS4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMwCkRzTTdDUHIzVnJhOXhyanFQMkVaT2lkd3J3NmNHRVc4ODJKeE1XaWNRVUFrSmxPaXZOMnM2OW8yVnpKL2Z0Tksxb0dJT0ZESnFxcURVZVdZZHoydEN3PT0K"
     }
   }
 }
