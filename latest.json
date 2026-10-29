@@ -1,11 +1,11 @@
 {
-  "version": "0.1.30",
-  "notes": "Profile overlay: axis names on the left, ranges from points below 0.5 dbar, all-zero lines left out",
-  "pub_date": "2026-10-29T14:07:25.220Z",
+  "version": "0.1.31",
+  "notes": "Profile overlay: one x-axis that follows the hovered line or legend chip; the other lines fade",
+  "pub_date": "2026-10-29T14:17:35.131Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.30_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmI4SC9JUmUrWk12akVxeXFzZ1EycE5HY0J3d25kYnhzYVhlVTVKazdabzlIT1RXMmI5a2E1WjJUdFB5MVhTWUR1UWlYMnM3MkUzbnNBQlVjZUErOFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgyODM4CWZpbGU6U0QzMDBXXzAuMS4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMwCkRzTTdDUHIzVnJhOXhyanFQMkVaT2lkd3J3NmNHRVc4ODJKeE1XaWNRVUFrSmxPaXZOMnM2OW8yVnpKL2Z0Tksxb0dJT0ZESnFxcURVZVdZZHoydEN3PT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.31_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRsV0QzL3hBQUQyK3BBNHJDUlgrT0VXVzhJWnlkSnBzNjJ6Zy9MSU94NTEwMnUxUjltZXM5UXJxeEJqNmxvZTgzdEFlZ1ZaNVFGeG5uRkFtSS9pT2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgzNDQ1CWZpbGU6U0QzMDBXXzAuMS4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMxCnhKZ1UrZ25PS2g5Sk1Zd1A1clMvRGgvcm1NdkNNLzYyRFB6NER0OVpEYmI3anhrdUhQS3lOVlY1N0FXUVBwVk5LbEZtMStRWThQY2lLYkFUM2FpRUJ3PT0K"
     }
   }
 }
