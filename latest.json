@@ -1,11 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "Back up every download as its own folder with the raw dump and SD2 files",
-  "pub_date": "2026-10-28T23:03:52.961Z",
+  "version": "0.1.28",
+  "notes": "Side panel: erase next to download, rarely used commands collapsed, stop logging off when not logging",
+  "pub_date": "2026-10-29T13:55:29.969Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.27_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmVXQTJ1djl3M01SNWQ5NTBwSmU0SjBsSlZwWERXMEx5NDc1d3dxR2gvQmxyQnRGQ0dpb0VBS1h5ZFNoZUFpWUthbmZDOFhvMDUvS2V2cnVneUJtakFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI4NjE4CWZpbGU6U0QzMDBXXzAuMS4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI3CjVva010UXZXeUswdkU2WVJIbUlySEtDdVNrT3lJYzZmeCtpQTBOaFRFTTJseHBBM0hmdnNGa1pBK3lyMHRvL2dsbEY3L0pvaC9VWno0MjVOVDdTbkR3PT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.28_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmNHeUIxVXhPc3BLSERRN3FURlpWVzMxK3FXWnV2bnQ0dVRETWlTc0RlVm8wQ2R5QTVTTk9FVG9laTkzUkZ0RWZsZ3Y4WWE5TjVtMHFNdDhLN1VZRGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjgyMTIyCWZpbGU6U0QzMDBXXzAuMS4yOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI4CjJLLy9vcDF5dVJIS0tRMFJRaUY1Sm13SDJqZzErU3ZUcVQxZVAwaGFQbkJPTXdEVGZHZGl2Q0ZpS3dNZUFxbTBSUXl0c01GcHBWb3pPU0Z5UmpzWUN3PT0K"
     }
   }
 }
