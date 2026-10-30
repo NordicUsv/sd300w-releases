@@ -1,15 +1,15 @@
 {
-  "version": "0.1.34",
-  "notes": "Save dialog: choose SD2 files or list export only, one list file per series; oxygen and number format move to Settings; Mac builds",
-  "pub_date": "2026-10-30T10:02:31.740Z",
+  "version": "0.1.35",
+  "notes": "Compact view: a 480 px strip with the main flow, for screens shared with the radar",
+  "pub_date": "2026-10-30T11:05:57.296Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.34_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlREcmhkYS83clVtYklTdzdwc3RkRTMzLzhOTTZNM0hpcTFyR3I1Q1RYM1JkQWRKQVo0RXgxa3RNVXQ1TnlGTFBPUGp0SjBvM2NlYmQ1dWJPU2VDR3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU0NDU2CWZpbGU6U0QzMDBXXzAuMS4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM0CnZveW5iNm92YksvM0ZvTUEvNU5KdUk1WHhHeS9HMkFiK0REWUhpZjZZWFlYU1RrVjVZWTBSdURrQzIraStNcVo4a0VWOHZiaGhUM3loWFA5LzdFZkJnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.35_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmIyTkEvRGhMTk1OYmZWYSsyZXNwKzhFcHN2Z0VCU2pqZUM2cVoram1wYUphL1dOQUJnaE5XRnErcWpkekJudlJxcDQ5YmUzanlPNzVWUjY3TUh5RVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU4MzM0CWZpbGU6U0QzMDBXXzAuMS4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM1CmhvbFoyTWl6SnBtcGJ3dnQ5MElLdEVnNjljUUVKWTVtMXNMSFNHbVR6eHJZRGlkaG00ZlUzZitmNDNnUWJLeGMrSkJCRjFZRWZzUXMrY25kZ2F1UER3PT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.34_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmZyY29Nd1gzK1ZqOW10aTlseU5KMkRXelJBbFhJaEIyc0k3ck9meWhGeHlHY01qSzhFYXd4cXA2L0JFMWdSNWtGaG5FZGNMd2ZEemtkTFFUb3hQNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU0MDc3CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzQKL2lNQUQzMkdhb3NDTm03dnBwYzRmUytnS2x4S3NBZEk2QmZ6enh4dU9CRDBVanVEWXM2bExqanpmUXZtbXpwZ1d2RGw0YUxVVDAvbmZpUlF2TkZZQlE9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.35_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlllQk1Bb0hCN1F5cGdFRFpJQ1pKd2Q0VmtqNWhQMVEvSjNCRW01UVIzNXRPSkI5UTdleXhmSWpuZ0ZCRUxJUGxQbVlnQmxsSUMvdE1vZEJJQ3V4U1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU4MjY0CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzUKNFRDZVhrRk42TTdMb3QwNjlsRDFvTVlMWWxBR0pWZXBzbExtZUhQQnNycGJkRVk5eGk4R3pjQ0ZsTjVpbWJCb0tIdFJHRUVvUlJyZ1U2b2Zya25BQ2c9PQo="
     }
   }
 }
