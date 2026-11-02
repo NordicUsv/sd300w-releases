@@ -1,15 +1,15 @@
 {
-  "version": "0.1.38",
-  "notes": "Send to Kystdata: waypoints grouped by mission with mission and waypoint ids, depth and a clear \"Has data\" label",
-  "pub_date": "2026-11-02T10:45:17.451Z",
+  "version": "0.1.39",
+  "notes": "Send to Kystdata: simpler wording, no extra-profile option, series shown as its own step and more room; compact view has more space between sections and a shorter terminal",
+  "pub_date": "2026-11-02T12:55:31.328Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.38_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmYwb1JUSFhoTm8wMW9sRHZhZEJiMFlqdndSMG83aDkrcnJkakVCSU1yVU5DcGhQanEyN3F5d3NpQWVERHNONUxFa29vU3ZEYmcrdkowL0FMMkJBRlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE2Mjk1CWZpbGU6U0QzMDBXXzAuMS4zOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM4CisrL0k2MDhyUmNESU1TZmhEeENMNnBRSTg5eSs1aG14U2xkV0F4N3dVb1J5cFNwR3VIWnNwYnpBTitIZnI0YjEya0xNTFZqUHBsZXpUV2ZNemkya0JnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.39_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRldJTTdnZkFMQkNtMk9Oc1pLZlN6RWU1cDQ3TUFFM1FGRjEvcW5Nbk5GaWxBKzRPbVhITCtoSzRDaXFQN2ZSVGRMeWszNTRPamRlaE5uMk81T0M4UUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI0MTAyCWZpbGU6U0QzMDBXXzAuMS4zOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM5CmJEYkRxREs4aDBzR3RmYndFaUNVZ09UbTVEeXlzdHNCbTFZUjhONzg1Q1YxY0cvS0NmdU9taGlsT2RaYzlZU1ljTm81SzQ5RXVMS25XUUFDQzdBMENBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.38_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmNSRGZMVkt6NG5HZVFETXVmZTZyY0lGUkhsQkhJalE3aEdIaHo0NDdPRk56N0VHbGFLUXRCS0NaRUhuc2dCakJ3akZhK1N5azFKcXBWb2Q2ZWRQL3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE2MTU0CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzgKQzM1dzRKdjFHdWE3NXp3SExxUW43VkhCNTB2cWpDNGxMdk40ck1FSURKWUNUMS9JV3VHQk1EMXI3a3JDU05VUWsvWjNaTHUyaEJ5YmgvaFJUWWVPQmc9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.39_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmNQRzdCMzk4SkVDa2J5c1JDcm5OaGdOejlRTnd6Q0RaOHZWTmI3cWRIVktHeHV4Njh4ZE9MRGFhV0JiVTFLOVR2MW1nZjl2UUpNSnNRdTc1cVpud2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI0MDAzCWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzkKejhlczZVMnJZenFMTkJCWEkyV252SmptdXorVzNpSjVsbHlLWGdBdmdBYXpONXZwWHM4aFNvblk1RkNQQTliWmpHN0QrY0VHWHdXcWgwbnIyck9KQnc9PQo="
     }
   }
 }
