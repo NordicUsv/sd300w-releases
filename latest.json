@@ -1,15 +1,15 @@
 {
-  "version": "0.1.36",
-  "notes": "Updates: a running app checks for a new version every 30 minutes, not only at startup",
-  "pub_date": "2026-11-02T08:52:03.497Z",
+  "version": "0.1.37",
+  "notes": "Kystdata: pair this PC with its vessel and send a series to a CTD method, with Kystdata's checks before sending",
+  "pub_date": "2026-11-02T09:45:15.303Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.36_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlNHU1NURDRYZUVwaERJL3JBbE9QZkVCK0JaUTNVUnpzWW9YOU9lbEZoMVd6ZCtERkJNdTNZWmt0bFNyWExVazMwakVzZUVCdjRZWFR0THZnRThtOEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA5NDk2CWZpbGU6U0QzMDBXXzAuMS4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM2CkVVajErWlhMWlNaeko3Z3AxUC9DTkpVbDhrMFJ1cFNoUHEvZ3BYNEp3ekt6UVk1N2hGMDdhbTU5K05VN0lDSEZpakpIT1MwVDNCdUtJT1pMblhVUEFnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.37_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmZBalVBaFc1RDRmZFpuWlAzeEM4MjNId2gzb05YRW9uM0tGMGp1MG9rQUpBbmlOTTJTOXRPT2NjaTV4Mmd1MEZRVW80ZXo5SDA0cGRvL2p2N1EzOEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjEyNTk2CWZpbGU6U0QzMDBXXzAuMS4zN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM3CkIyck9neDk2Y1RSYm54MXo0c0hkRWFDWVQzV0xJWDhCTWk4MWlHVmYzQ0IwUDkwaE5uMi8rSFMzakJaRzg1dGRLMWtrejhWMVpISytVL3g1bTFkTERRPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.36_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmUzSEEzdFRXTWdUQUJDeVFaMENibG5nMDBZbW9VTWZSL0JhWGQwa05QSjViWFV3a2JCZTNqb0hOdHR1QVBUa2hFOUIzQ05mNUZHclJQNHh5K203aUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA5Mzk3CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzYKTzN5dXdrdGNHY0drRWdPb0tzSC9jamptbHhFZ0U5c0dwVzNPaTFhTVFBaXdIbmxyUU92S0lEZjk1OWVFSWNTM0M0Q2dZbC9QSjI5b1Y2YmVPMjk5QWc9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.37_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlkvMUR4K3pVbVpFMGJYb2NBWnBuUUhmN3VCZTFId29IL1IybzFqZHYyY2Z6bWpPUmk3RlZxV1lZazlFU3YyTTlkYjdxVjdXVnZ5Rk0rU0VhWGFXVVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjEyNTI3CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzcKdXJtLzk5ZWt1bEFKbnVCOXlKR3hHaFVqOEFIWDNEMi9CUEd5bFFvVGt3TmdGYVd5eHlIVXY2ZWVZQ0prbk5uMWNWS0RySXBCRkVJRktEcTdwTEJyQmc9PQo="
     }
   }
 }
