@@ -1,15 +1,15 @@
 {
-  "version": "0.1.40",
-  "notes": "Wake like SD200W: radio ID to the dongle before every I, about three presses a second, N to the interval question; downloads named after vessel, instrument and time; What's new list",
-  "pub_date": "2026-11-03T10:09:29.112Z",
+  "version": "0.1.41",
+  "notes": "Wake: ignore the dongle's RX:/TX: answers to the radio ID, so I keeps being pressed until the instrument answers",
+  "pub_date": "2026-11-03T11:42:16.409Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.40_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRll3d2NqVThLMkJBUENqT0FUeFA4QW1UM290WVhxNlpYRCtjQkZ0WUEzTVNxUlBYL2ZHcnhKOTV5VG44VWVSUHcxTmVzTElRbytUN3R0Nm9WdEtaeGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzAwNTQzCWZpbGU6U0QzMDBXXzAuMS40MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQwClBhNFA1UGhNNTdIZUtMZTNiWm4vRkhTQmxHMHhUZ2NBN3QxbGZlVndicUdlc0hJdTVOZlMzVlkxcHRJQnhRVDZZTlZmdzdtUHk1VHhFYXNMSDl0T0JnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.41_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmJZVWlKYTVqYkZENFZHN2Zwc29xWTVGU0JlZ2lQcU5xT2ZEL3FCb0NMSno5Zy92K2NQVk9YdnpKdFRMdTV1VFdRTXdIUkpmVkpiTVk3cVo0UGVmQWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzA2MTEzCWZpbGU6U0QzMDBXXzAuMS40MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQxCmRUWEhsOEpjaHNHL0VWQ04yNzhheGE0SGxWdGdCRkloK0F1SC8vVUJpM3N5c0RQcmtQSkVYcmRPYzVIOG42dVBRWDIzd0xIaVFoZWNPVHhPSE1zTENnPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.40_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmFYenk1bXEvcDRwSGVUY0sva1BzdDNKMWliK1BGb2lZM2R6Q2JnMUwxVFp5REduaFk3ZTBneTF5eTZPZDltb2JQZEV5allmYkszS2JKd3l2Y3Q4ZGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzAwNDg4CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDAKeVpjT3JQU3ZkWlVKSURwa3B5OVZKaU5YUjQwTWpTUmZrNnphTmlpZEtDellKaFhZUjNYMmtFV2w2eU9MVXVUdEg1V2dVR1pPUzFrNk9oc0tGclh3Q1E9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.41_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlZMNnRCREcwUy9hQ1AzLzRqQVhPZ3BCY013a3JjZDVxTkxGS0hocDhub2V2d0tTNW05RHpWK3dqdEh6a2JxMzJmbVdsdmJ4SzhQWHl0OG4xeXNKSXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzA2MDgwCWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDEKQTVtOTkwR2ozWUhtSzZTRGpoOHZQTXljUVc1WURvaXVycXFENHhVQzBvM2dSbGpkek1yMHZrcFdmaEFlYk1lZWZDZkJEeXE4dzV5QTc2T2M3dUpRREE9PQo="
     }
   }
 }

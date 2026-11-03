@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.41",
+    "date": "2026-11-03",
+    "notes": "Wake: ignore the dongle's RX:/TX: answers to the radio ID, so I keeps being pressed until the instrument answers"
+  },
+  {
     "version": "0.1.40",
     "date": "2026-11-03",
     "notes": "Wake like SD200W: radio ID to the dongle before every I, about three presses a second, N to the interval question; downloads named after vessel, instrument and time; What's new list"
