@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.46",
+    "date": "2026-11-03",
+    "notes": "Wake: short port read timeout so keys are not held up behind reads on Windows; DTR/RTS reset and unsent keys dropped before every I with 300 ms between, as SD200W does on Storm"
+  },
+  {
     "version": "0.1.45",
     "date": "2026-11-03",
     "notes": "Wake: no waiting on the port after each key, one I every 0.8 s like SD200W, unsent keys dropped as soon as the instrument answers"
