@@ -1,0 +1,167 @@
+[
+  {
+    "version": "0.1.40",
+    "date": "2026-11-03",
+    "notes": "Wake like SD200W: radio ID to the dongle before every I, about three presses a second, N to the interval question; downloads named after vessel, instrument and time; What's new list"
+  },
+  {
+    "version": "0.1.39",
+    "date": "2026-11-02",
+    "notes": "Send to Kystdata: simpler wording, no extra-profile option, series shown as its own step and more room; compact view has more space between sections and a shorter terminal"
+  },
+  {
+    "version": "0.1.38",
+    "date": "2026-11-02",
+    "notes": "Send to Kystdata: waypoints grouped by mission with mission and waypoint ids, depth and a clear \"Has data\" label"
+  },
+  {
+    "version": "0.1.37",
+    "date": "2026-11-02",
+    "notes": "Kystdata: pair this PC with its vessel and send a series to a CTD method, with Kystdata's checks before sending"
+  },
+  {
+    "version": "0.1.36",
+    "date": "2026-11-02",
+    "notes": "Updates: a running app checks for a new version every 30 minutes, not only at startup"
+  },
+  {
+    "version": "0.1.35",
+    "date": "2026-10-30",
+    "notes": "Compact view: a 480 px strip with the main flow, for screens shared with the radar"
+  },
+  {
+    "version": "0.1.34",
+    "date": "2026-10-30",
+    "notes": "Save dialog: choose SD2 files or list export only, one list file per series; oxygen and number format move to Settings; Mac builds"
+  },
+  {
+    "version": "0.1.33",
+    "date": "2026-10-29",
+    "notes": "Chart: draw all-zero lines again; they are transfer errors to be flagged later, not hidden"
+  },
+  {
+    "version": "0.1.31",
+    "date": "2026-10-29",
+    "notes": "Profile overlay: one x-axis that follows the hovered line or legend chip; the other lines fade"
+  },
+  {
+    "version": "0.1.30",
+    "date": "2026-10-29",
+    "notes": "Profile overlay: axis names on the left, ranges from points below 0.5 dbar, all-zero lines left out"
+  },
+  {
+    "version": "0.1.29",
+    "date": "2026-10-29",
+    "notes": "Own select style instead of the native control; full-width buttons in the collapsed instrument section"
+  },
+  {
+    "version": "0.1.28",
+    "date": "2026-10-29",
+    "notes": "Side panel: erase next to download, rarely used commands collapsed, stop logging off when not logging"
+  },
+  {
+    "version": "0.1.27",
+    "date": "2026-10-28",
+    "notes": "Back up every download as its own folder with the raw dump and SD2 files"
+  },
+  {
+    "version": "0.1.26",
+    "date": "2026-10-28",
+    "notes": "Open dialog remembers the last folder; drop files on the window to open them"
+  },
+  {
+    "version": "0.1.24",
+    "date": "2026-10-27",
+    "notes": "Interval and clock as in the manual; type straight into the terminal"
+  },
+  {
+    "version": "0.1.22",
+    "date": "2026-10-27",
+    "notes": "Status: one compact row – state and when last heard; explanation as tooltip"
+  },
+  {
+    "version": "0.1.21",
+    "date": "2026-10-27",
+    "notes": "Instrument status card at the top of the panel"
+  },
+  {
+    "version": "0.1.20",
+    "date": "2026-10-27",
+    "notes": "Profile: leave out unreadable lines, axes from points in water, cleaner ticks"
+  },
+  {
+    "version": "0.1.19",
+    "date": "2026-10-27",
+    "notes": "Table view of a series, like SD200W's list"
+  },
+  {
+    "version": "0.1.18",
+    "date": "2026-10-27",
+    "notes": "Profile: overlay (SD200W Multigraph style) and panels, parameter chips"
+  },
+  {
+    "version": "0.1.17",
+    "date": "2026-10-27",
+    "notes": "English throughout, SD200W's column names; profile as one panel per parameter"
+  },
+  {
+    "version": "0.1.16",
+    "date": "2026-10-27",
+    "notes": "Chart: short legend names, full names in the tooltip; optode named as oxygen"
+  },
+  {
+    "version": "0.1.15",
+    "date": "2026-10-27",
+    "notes": "Save dialog: narrower, radios; oxygen mg/l, ml/l or both (NAME.txt + NAME_ml.txt)"
+  },
+  {
+    "version": "0.1.14",
+    "date": "2026-10-27",
+    "notes": "Series table as wide as its content"
+  },
+  {
+    "version": "0.1.13",
+    "date": "2026-10-27",
+    "notes": "Profile chart: both/down/up toggle (split at the deepest point); «Maks dyp (dbar)»"
+  },
+  {
+    "version": "0.1.12",
+    "date": "2026-10-27",
+    "notes": "Profile chart: no zoom"
+  },
+  {
+    "version": "0.1.11",
+    "date": "2026-10-27",
+    "notes": "Profile chart: tooltip shows each line's value, all lines visible, tighter spacing"
+  },
+  {
+    "version": "0.1.10",
+    "date": "2026-10-27",
+    "notes": "Save and open SD200W's own files; data view built on the SD200W dataset"
+  },
+  {
+    "version": "0.1.9",
+    "date": "2026-10-27",
+    "notes": "Profile chart: ECharts, all parameters as lines against depth, tooltip and zoom"
+  },
+  {
+    "version": "0.1.8",
+    "date": "2026-10-27",
+    "notes": "No automatic H after download"
+  },
+  {
+    "version": "0.1.6",
+    "date": "2026-10-27",
+    "notes": "Wake: only I is held; every other key is one tap"
+  },
+  {
+    "version": "0.1.4",
+    "date": "2026-10-27",
+    "notes": "Wake: answer the «Status/Start/Menu <S>» screen, stop if a measurement starts"
+  },
+  {
+    "version": "0.1.3",
+    "date": "2026-10-27",
+    "notes": "Wake: wait up to 90 s for the menu, show elapsed time"
+  }
+]
