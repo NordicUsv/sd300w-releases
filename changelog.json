@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.44",
+    "date": "2026-11-03",
+    "notes": "Wake as up to 0.1.39: radio ID and CR once on connect, I every 100 ms; slow writes to the port shown in the terminal; dev builds keep the Kystdata token in a file"
+  },
+  {
     "version": "0.1.43",
     "date": "2026-11-03",
     "notes": "Wake: one I every 0.7 s so the radio dongle does not queue keys and miss the instrument's answer; answer \"Press <M> for menu\" with M"
