@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.42",
+    "date": "2026-11-03",
+    "notes": "Wake: radio ID to the dongle once, then I held every 100 ms until the instrument answers; no port reset between presses"
+  },
+  {
     "version": "0.1.41",
     "date": "2026-11-03",
     "notes": "Wake: ignore the dongle's RX:/TX: answers to the radio ID, so I keeps being pressed until the instrument answers"
