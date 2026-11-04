@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.49",
+    "date": "2026-11-04",
+    "notes": "Compact strip fits above the Windows taskbar: window sized with its title bar and borders, remembered positions kept inside the work area"
+  },
+  {
     "version": "0.1.48",
     "date": "2026-11-04",
     "notes": "Send to Kystdata: also lists the vessel's missions from the last 14 days (a mission dated earlier was missed), sampling method ID field as a fallback; saving keeps dots in names (916--Norfj.I)"
