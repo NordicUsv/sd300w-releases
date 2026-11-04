@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.48",
+    "date": "2026-11-04",
+    "notes": "Send to Kystdata: also lists the vessel's missions from the last 14 days (a mission dated earlier was missed), sampling method ID field as a fallback; saving keeps dots in names (916--Norfj.I)"
+  },
+  {
     "version": "0.1.47",
     "date": "2026-11-04",
     "notes": "Send to Kystdata: \"Select waypoint\", \"Already has data\" with a warning icon, extra profiles show why, failed checks in red with \"Send anyway\"; printable quick guide in docs"
