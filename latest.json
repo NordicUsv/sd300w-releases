@@ -1,15 +1,15 @@
 {
-  "version": "0.1.46",
-  "notes": "Wake: short port read timeout so keys are not held up behind reads on Windows; DTR/RTS reset and unsent keys dropped before every I with 300 ms between, as SD200W does on Storm",
-  "pub_date": "2026-11-03T14:33:56.473Z",
+  "version": "0.1.47",
+  "notes": "Send to Kystdata: \"Select waypoint\", \"Already has data\" with a warning icon, extra profiles show why, failed checks in red with \"Send anyway\"; printable quick guide in docs",
+  "pub_date": "2026-11-04T11:35:30.557Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.46_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlYwN1FLZDNHRkxOdDEyd2dQT3lOTHZiczBuRnRyc0lKZTlBN1UxWEQ4dUFXb1V0b2VMaURZdDE3aUVqR2Z5ZGV6VWk2V1ZINHhsZmZlbFB3bmxBVlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE2Mzc3CWZpbGU6U0QzMDBXXzAuMS40Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ2Ci94c0RDYW9OVmh0SEdtQlMvZDE0QmtJYkh4cXRyWG1YdXRxUEZwc1owYlFQbkZOUEVXdzJDY0lsL0VvRXlJK0gvRzNteXlYQXRFUlB6QW9ZTXQ5cEJnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.47_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRllJTytHTE5mV2FSSVUwZmVmTklQcThaM1JQOVo5ekJKMDNKZVpCZmpnRlA5V0lyZGJuZHc2aDRsdktkdmxidlV5Y3F0bTJLUEMzQ1FFR1BSZFQ1SkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkyMTAzCWZpbGU6U0QzMDBXXzAuMS40N194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQ3CmFtVnFsKzVtbE9IUzBOL2J1bUNyK3FZN2FVREc1dmNKM3NJUm10WEVMdURab1JIMTZtU2dkQVRCTmtXOHA3TDdkalNadU42SnN3Q3lDVlZobjlJOUFBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.46_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmNCaGxmVVdRMzdUdStIcmw0Y1huZGwzcnA4OEJzY2RWVVhGdG1lKzR5S1ZIdjdlKytxcHMzajRnNWxiTzJPWkh5T1FYMGdZSUx4YlZiSkxsMXlkeEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE2MjQyCWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKRlczT2N6UW8yRktiZGJ6OWdYbVgrSXBQWFZvRWY0VjRibzViTC8rSkJZK1lYT0VSQU8zK1VUNlgwVGtXa282ZzdGc3ZXMDRZZldyTGVUOWNFOGgzQ3c9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.47_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmI0WkZzSmo2K0Z5R20ySGREZERkeVFPWGd6RFRiMVEzUUtQaDJXbG1wNFkxaXQvdi9RUVRUMEljS1htemVyRnhqeFdWTnBBejlvV2NvUXlyLzZoT2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzkyMDQ0CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDcKSDJjY21YOWFKM21uMVNpS1VCandSemlNQ3BtSlh3N25nanJrNW9iRlJvamhucFBPayticzY4bytBVWFicUF2VEh0ZWR6RU9QWGcrOTJmNm1Ob1lLQ3c9PQo="
     }
   }
 }
