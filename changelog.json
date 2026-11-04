@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.50",
+    "date": "2026-11-04",
+    "notes": "Send to Kystdata: \"Add as an extra profile\" checkbox (30 m, high fluorescence) like Kystdata's own upload; the planned profile keeps its data"
+  },
+  {
     "version": "0.1.49",
     "date": "2026-11-04",
     "notes": "Compact strip fits above the Windows taskbar: window sized with its title bar and borders, remembered positions kept inside the work area"
