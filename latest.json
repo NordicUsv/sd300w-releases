@@ -1,15 +1,15 @@
 {
-  "version": "0.1.50",
-  "notes": "Send to Kystdata: \"Add as an extra profile\" checkbox (30 m, high fluorescence) like Kystdata's own upload; the planned profile keeps its data",
-  "pub_date": "2026-11-04T13:53:04.403Z",
+  "version": "0.1.51",
+  "notes": "Stop logging holds I until the wake screen (a measurement line cut short by the radio was taken as the answer, so S went to a running measurement); dialogs open at a fixed top so rows do not move under the cursor; Send to Kystdata orders by Kystdata's running-at-cast and day's-plan, hides quotes; quick guide updates",
+  "pub_date": "2026-11-05T12:01:04.524Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.50_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRLbVRlMDk0b0tDSkczYitSdGdUVmJiOG1BNmxCUXQ1cjM2b1NHN3JHYUxYZ29uM1YzdWJLK2ozMi9LREhvaVhsSTljT1NqNWhMZGNaazFvdmJjZ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODAwMjczCWZpbGU6U0QzMDBXXzAuMS41MF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUwClFQalJQNjV4Mk1wT2NDRE1DdEJRWG9LM2RVT1NCdGVtKzVnRVZ2VFNxVjBOY0ZZYXBQMkgvOFJ3bjRLcGsrU1N1a1kwMGZ1S01zQktycmsySWhZMkR3PT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.51_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlh5UFlJYWc4clJlVDZOOFVOY0J3bUlDc1RvZElJTUt5cWtVY0dBMFVmQm1kd0QvS3FGaEFuaHpmdllCeHQ1M2IzMkRKM2VUdDBsOU52N2lhTStIOUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgwMDMxCWZpbGU6U0QzMDBXXzAuMS41MV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUxCjZKd0dsSnRaWEdxUlhBYloyNVBZWW9sNzFCWDducld3SEJqeXU0QlN0bEpEU2UvVklsK3JvRWhyYXZHU2t5V2t6cktSdExNQXErdFNMdDhuYU5DYkN3PT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.50_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlplbmF4MnZwQ0FseHZrOTlsb0RZQ3VTSUxoblhPaWdCVmIrYUEwMEdxdVBLRjdOZ0lLdDU2V05DcmI4STZuczNTYXRhY1RHYlJWVmhGSnBXSjBaS3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODAwMTYxCWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTAKLzFaOHF5VjAwYjNweVM5eVcwRzdRWUkzM3hrK1owcWlkVm9tSzZPYjVkQXBtV3hEWTQ0bHE4d29CeTV3d0x2eUE1L1VOT0R6akx4eDRibGVmQW15RGc9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.51_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlRsN2Y1S2xQRk5GNU0vZi9ZdVBrODYzRk9vak1FbEVBUTd6YWxOQ1FJS1NWOWNQN1dzamwvYkN5ZzMvU1RZdGZoZGdjb0JCaWt2WVlmeTFiYWxVbFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc5OTQ5CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKYjk2UjZiR25KYnlFSm9iT0RCU2NzTWhsZ0FKRVZHa2p5cFUrWTNJY3pQK3p4NFNySVUwTU9MNHo4bnhNaWMyTzR6ckhrQXlOZWpCWnFNZEtMT25vQnc9PQo="
     }
   }
 }
