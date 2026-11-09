@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.53",
+    "date": "2026-11-09",
+    "notes": "Wake: the port is closed and opened again before every I, as SD200W does (only dropping DTR/RTS left waking slow and needing many tries until Disconnect/Connect)"
+  },
+  {
     "version": "0.1.52",
     "date": "2026-11-09",
     "notes": "Series: the newest is selected after a download (it was the oldest, so an older cast was sent); Send to Kystdata lists the series to choose from when there are several; compact series rows can be selected; Start logging warns when the series from the last download were not erased"
