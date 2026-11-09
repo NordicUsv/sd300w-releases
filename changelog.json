@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.54",
+    "date": "2026-11-09",
+    "notes": "Series after the first are timed from their own start: the instrument keeps counting measurements until memory is erased, so a second series came out shifted by the length of the first (SD200W times each series from its own first number)"
+  },
+  {
     "version": "0.1.53",
     "date": "2026-11-09",
     "notes": "Wake: the port is closed and opened again before every I, as SD200W does (only dropping DTR/RTS left waking slow and needing many tries until Disconnect/Connect)"
