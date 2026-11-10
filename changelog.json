@@ -1,5 +1,10 @@
 [
   {
+    "version": "0.1.56",
+    "date": "2026-11-10",
+    "notes": "Terminal: keys are written off the main thread (a write over the radio takes 0.25 s and a held key froze the window), and repeats of a held key are dropped while one is still being written, so they stop when the key is let go"
+  },
+  {
     "version": "0.1.55",
     "date": "2026-11-10",
     "notes": "Wake: an I every 0.25 s without reopening the port (a passive instrument listens only briefly once a minute, and an I every 0.45 s often missed it), no I after the instrument answers, and S/M/N sent again when the instrument says nothing for 1.5 s (S was lost over the radio and the instrument started measuring)"

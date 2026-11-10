@@ -1,15 +1,15 @@
 {
-  "version": "0.1.55",
-  "notes": "Wake: an I every 0.25 s without reopening the port (a passive instrument listens only briefly once a minute, and an I every 0.45 s often missed it), no I after the instrument answers, and S/M/N sent again when the instrument says nothing for 1.5 s (S was lost over the radio and the instrument started measuring)",
-  "pub_date": "2026-11-10T12:19:43.317Z",
+  "version": "0.1.56",
+  "notes": "Terminal: keys are written off the main thread (a write over the radio takes 0.25 s and a held key froze the window), and repeats of a held key are dropped while one is still being written, so they stop when the key is let go",
+  "pub_date": "2026-11-10T12:59:21.022Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.55_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlp0Qk5ZU1h4ZEZ3Q2IvSmFPN0FZbjVEZURPRExxU01UTlF1Q0lJUzdvZnQ2cmxWdTQzdERJVTRESmkreFhHWlhyYUJVcytneFNOcDFMa0VUcU9mNXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEzMTU5CWZpbGU6U0QzMDBXXzAuMS41NV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU1Cm9jeVE5cmZhMGtsZGw4WjU4UUU0QkhwUmF3bG5ZRnJza3F0TW0rZU5rOUt0c0gwU05zbnBtQTBkNlJkbDBYa3N5ZGU5d0trTDMrUUovRDZRUEhHK0RnPT0K"
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/windows/SD300W_0.1.56_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRmZ4QkRCank5MGF4aktySTRSa2RYNHFRVGs0a09JL01QNmpkUk5kQ3JJQUhLbHhVVCt2SnRlOW11V1Izbmlua2hUdG4zTjhjeW1jMzlMQzYyUGdiWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE1NTMyCWZpbGU6U0QzMDBXXzAuMS41Nl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjU2ClJMODVNb2RLN1NpZ2JVdzRhcjNVNjRkSlprOFFwd1RvM3hpdHpKRjNKUUxtdS8rWU9XeHE2NjhORER1aUt6T2ZSdVBsK2d0MnhGREkrUG54SWt1bkJBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.55_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRldLcEtnckdyaHVMSEJCS2NLeXFEa3ZUenZrUWdkSi9wOVVvMVVLbWwvK0lQOWpSNGxFTGVzOWFLa0F2U0F1ZlBodURqcmpsYkpwYzEvREFyRzlwbXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzEzMDk3CWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTUKZ2hSaDBVTTUyYXhEV1RZZmtlTW83alFRSWNMbjA2Y2FJUFJxVVFCaDhYMzNMcmZRSzFpbGxPOWhCRHJVd1ZvZXFjUHF4ckluc1hzMmVNV1NiRlg1Qnc9PQo="
+      "url": "https://raw.githubusercontent.com/NordicUsv/sd300w-releases/main/macos/SD300W_0.1.56_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ2c5NFQ5N2dLRlpMR0hnL3hTMlpxdlYrWUVPcjk0aW5EODVQZEg5UlAwWHhBSlhRR3A1bXFad3BQYitEcE1KMk5LMzJDdkxpL3hsaHFjM1JsSWdJWGZWMThnZmRzUVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE1MzkzCWZpbGU6U0QzMDBXLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTYKRncrdXFwRUpBMUUzSkliL2s1Z0RxMmxaTy9TVWk5emVDbDlIUnNaQnFrUDMxQ3FML0JXMTRHTkU0SlE1T2cyYlpNMi83UTdxZTc0UGY3cTNyRE9oRGc9PQo="
     }
   }
 }
